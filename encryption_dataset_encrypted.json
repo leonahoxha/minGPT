@@ -2,7 +2,7 @@
     {
         "employee": "Alice Johnson",
         "department": "Finance",
-        "salary": "ENC($125,000)",
+        "salary": "QVYEsISyhuGzoshw+c9dog==",
         "policy": {
             "salary": {
                 "access": [
@@ -16,7 +16,7 @@
     {
         "employee": "Bob Smith",
         "department": "Engineering",
-        "salary": "ENC($95,000)",
+        "salary": "vTukSbDxgq3Qzmww7ktfwA==",
         "policy": {
             "salary": {
                 "access": [
@@ -30,7 +30,7 @@
     {
         "employee": "Carol Lee",
         "department": "Marketing",
-        "salary": "ENC($105,000)",
+        "salary": "BLy05aPuOrOK+dawsAfGzA==",
         "policy": {
             "salary": {
                 "access": [
