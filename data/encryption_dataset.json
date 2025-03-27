@@ -1,0 +1,44 @@
+[
+    {
+        "employee": "Alice Johnson",
+        "department": "Finance",
+        "salary": "ENC($125,000)",
+        "policy": {
+            "salary": {
+                "access": [
+                    "HR",
+                    "self"
+                ],
+                "encrypted": true
+            }
+        }
+    },
+    {
+        "employee": "Bob Smith",
+        "department": "Engineering",
+        "salary": "ENC($95,000)",
+        "policy": {
+            "salary": {
+                "access": [
+                    "HR",
+                    "self"
+                ],
+                "encrypted": true
+            }
+        }
+    },
+    {
+        "employee": "Carol Lee",
+        "department": "Marketing",
+        "salary": "ENC($105,000)",
+        "policy": {
+            "salary": {
+                "access": [
+                    "HR",
+                    "self"
+                ],
+                "encrypted": true
+            }
+        }
+    }
+]
